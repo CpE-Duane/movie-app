@@ -1,0 +1,10 @@
+@import '../../common/colors.scss';
+
+.spinner {
+     background-color: transparent;
+     opacity: 0.5;
+     height: 75vh;
+     display: flex;
+     align-items: center;
+     justify-content: center
+}
